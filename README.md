@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Amir
 
-<!--
-**amirezasn/amirezasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on building LLM, RAG and automation systems.
 
-Here are some ideas to get you started:
+I work with Python, AWS, n8n, APIs, cloud integrations, vector search, and production AI workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently interested in AI engineering roles involving agentic systems, retrieval workflows, automation, and applied LLM solutions.
+
+## Core Skills
+
+- Python
+- AWS
+- RAG and vector search
+- LLM applications
+- n8n automation
+- API integrations
+- PostgreSQL
+- CRM and workflow automation
